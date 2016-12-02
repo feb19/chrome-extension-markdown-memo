@@ -1,0 +1,10 @@
+{
+  "name": "markdown memo",
+  "version": "1.2",
+  "description": "Shows the top sites in a browser action",
+  "permissions": ["storage"],
+  "chrome_url_overrides": {
+    "newtab": "default.html"
+  },
+  "manifest_version": 2
+}
